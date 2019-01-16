@@ -1,4 +1,4 @@
-# $(\phi,\psi)$
+# (\phi,\psi) &theta;
 
 Predicting (\phi,\psi) dihedrals from amino acid sequence
 
