@@ -1,10 +1,12 @@
 # (&phi;,&psi;)
 
-Predicting (&phi;,&psi;) dihedrals from amino acid sequence
+Predicting (&phi;,&psi;) dihedrals from amino acid sequences
+
+TODO: add secondary structure to .json file
 
 ## Table of contents
 
-* Part 0: Getting familiar with the data
-    * [0.0: Loading and visualizing](http://nbviewer.jupyter.org/github/gjoni/phipsi/blob/master/notebooks/0.0-loading-and-visualizing.ipynb)
-* Part 1: Data processing (clustering & removing outliers ???)
-    * 1.0: 
+* Part 1: [Getting familiar with the data](http://nbviewer.jupyter.org/github/gjoni/phipsi/blob/master/notebooks/1-loading-and-visualizing.ipynb)
+* Part 2: [Data processing](http://nbviewer.jupyter.org/github/gjoni/phipsi/blob/master/notebooks/2-clustering.ipynb)
+
+References:
