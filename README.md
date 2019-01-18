@@ -9,8 +9,8 @@ TODO: add secondary structure to .json file
 * Part 1: [Getting familiar with the data](http://nbviewer.jupyter.org/github/gjoni/phipsi/blob/master/notebooks/1-loading-and-visualizing.ipynb)
 * Part 2: [Data processing](http://nbviewer.jupyter.org/github/gjoni/phipsi/blob/master/notebooks/2-clustering.ipynb)
 * Part 3: Shallow learning
-    * [3.1 Logistic regression in ```scikit-learn```](http://nbviewer.jupyter.org/github/gjoni/phipsi/blob/master/notebooks/3.1-logistic-regression-in-sklearn.ipynb)
-    * [3.2 Hyperparameter tuning](http://nbviewer.jupyter.org/github/gjoni/phipsi/blob/master/notebooks/3.2-hyperparameter-tuning.ipynb)
+    * 3.1 [Logistic regression in ```scikit-learn```](http://nbviewer.jupyter.org/github/gjoni/phipsi/blob/master/notebooks/3.1-logistic-regression-in-sklearn.ipynb)
+    * 3.2 [Hyperparameter tuning](http://nbviewer.jupyter.org/github/gjoni/phipsi/blob/master/notebooks/3.2-hyperparameter-tuning.ipynb)
     * 3.3 Simple neural networks
     * 3.4 Logistic regression in ```tensorflow```
 
