@@ -9,8 +9,9 @@ Predicting (&phi;,&psi;) dihedrals from amino acid sequences
     * 3.2 [Hyperparameter tuning](http://nbviewer.jupyter.org/github/gjoni/phipsi/blob/master/notebooks/3.2-hyperparameter-tuning.ipynb)
     * 3.3 [Simple neural networks](http://nbviewer.jupyter.org/github/gjoni/phipsi/blob/master/notebooks/3.3-neural-networks.ipynb)
 * Part 4: Deep learning
-    * 4.1 Convolutional NN
+    * 4.1 [Convolutional NN](http://nbviewer.jupyter.org/github/gjoni/phipsi/blob/master/notebooks/4.1-cnn-in-tensorflow.ipynb)
     * 4.2 [Residual NN](http://nbviewer.jupyter.org/github/gjoni/phipsi/blob/master/notebooks/4.2-resnet-in-tensorflow.ipynb)
+* Part 5: Training on real data (profiles)
 
 ## References:
 
