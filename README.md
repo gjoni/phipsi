@@ -12,6 +12,7 @@ Predicting (&phi;,&psi;) dihedrals from amino acid sequences
     * 4.1 [Convolutional NN](http://nbviewer.jupyter.org/github/gjoni/phipsi/blob/master/notebooks/4.1-cnn-in-tensorflow.ipynb)
     * 4.2 [Residual NN](http://nbviewer.jupyter.org/github/gjoni/phipsi/blob/master/notebooks/4.2-resnet-in-tensorflow.ipynb)
 * Part 5: Training on real data (profiles)
+    * 5.1 [ResNet](http://nbviewer.jupyter.org/github/gjoni/phipsi/blob/master/notebooks/5.1-resnet.ipynb)
 
 ## References:
 
