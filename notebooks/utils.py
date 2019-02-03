@@ -129,6 +129,20 @@ def getPSI(dataset, WINDOW):
 
 
 ############################################################
+# mean absolute error between two sets of angles
+############################################################
+def ang_mae(ref, pred):
+    # don't forget about periodicity!
+    rmse = np.sum(
+        np.minimum(
+            np.abs(pred - ref),
+            np.abs(pred - ref + 2*np.pi),
+            np.abs(pred - ref - 2*np.pi))) / ref.shape[0]
+    return rmse
+
+
+
+############################################################
 # root-mean squared error between two sets of angles
 ############################################################
 def ang_rmse(ref, pred):
