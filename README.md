@@ -13,6 +13,8 @@ Predicting (&phi;,&psi;) dihedrals from amino acid sequences
     * 4.2 [Residual NN](http://nbviewer.jupyter.org/github/gjoni/phipsi/blob/master/notebooks/4.2-resnet-in-tensorflow.ipynb)
 * Part 5: Training on real data (profiles)
     * 5.1 [ResNet](http://nbviewer.jupyter.org/github/gjoni/phipsi/blob/master/notebooks/5.1-resnet.ipynb)
+* Part 6: Picking fragments
+    * 6.1 [Fragment library](http://nbviewer.jupyter.org/github/gjoni/phipsi/blob/master/notebooks/6.1-load_vall.ipynb)
 
 ## References:
 
